@@ -102,6 +102,10 @@ The following datasets are very popular in **Recommender Systems**, below are al
   - [Flixster](http://socialcomputing.asu.edu/datasets/Flixster): Flixster is a social movie site allowing users to share movie ratings, discover new movies and meet others with similar movie taste.
   - [IMDB](http://komarix.org/ac/ds/): This is a link dataset built with permission from the Internet Movie Data (IMDB).
   
+
+### Trust
+  - [CiaoDVD & Epinions](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm): The CiaoDVD is a dataset crawled from the entire category of DVDs, and the Epinions dataset for each user, in their profile, it contains their ratings and trust relations. For each rating, the product name and its category, the rating score, the time point when the rating is created, and the helpfulness of this rating.
+  
   
 ### Anime
   - [Anime Recommendations Database](https://www.kaggle.com/CooperUnion/anime-recommendations-database): This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.
