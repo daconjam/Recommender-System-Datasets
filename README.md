@@ -8,8 +8,8 @@ other scientists. The datasets are free, however datasets may ask for citation.
     Name: Jamell Dacon
     Email: daconjam at msu dot edu (daconjam@msu.edu)
     
-If you were lead here by our paper **Cross Domain Recommender System: A Clear View** [**PDF**: *Coming soon*] or publish material based on material and/ or information obtained from this repository, then, in your acknowledgements, please note the assistance you received from utilizing this repository by citing our paper as follows below, and star ![GitHub stars](https://img.shields.io/github/stars/daconjam/Recommender-System-Datasets?style=social) 
-the repository so that academics i.e. university researchers, faculty and other scientists may have quicker access to the available datasets. This will aid in helping others in obtaining the same datasets, thus allowing the replication and improvement of experiments.
+If you were lead here by our paper **Cross Domain Recommender System: A Clear View** [**PDF**: *Coming soon*] or publish material based on material and/ or information obtained from this repository, then, in your acknowledgements, please note the assistance you received from utilizing this repository. By citing our paper as follows below, starring ![GitHub stars](https://img.shields.io/github/stars/daconjam/Recommender-System-Datasets?style=social) and/ or forking ![Github forks](https://img.shields.io/github/forks/daconjam/Recommender-System-Datasets?style=social)
+the repository so that academics i.e. university researchers, faculty and other scientists may have quicker access to the available datasets. This will aid in directing others in obtaining the same datasets, thus allowing the replication and improvement of experiments.
 
 ### Citation
 
@@ -55,6 +55,7 @@ The following datasets are very popular in **Recommender Systems**, below are al
   - [Retailrocket recommender system dataset](https://www.kaggle.com/retailrocket/ecommerce-dataset): This dataset consists of three files: a file with behaviour data (events.csv), a file with item properties (item_properties.сsv) and a file, which describes category tree (category_tree.сsv). The data has been collected from a real-world ecommerce website. 
   - [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download#English-language_Wikipedia): Wikipedia offers free copies of all available content to interested users. These databases can be used for mirroring, personal use, informal backups, offline use or database queries.
   - [Airbnb Collection](https://www.kaggle.com/fermatsavant/airbnb-dataset-of-barcelona-city): The data was take of http://tomslee.net/airbnb-data-collection-get-the-data, this represent a response of the Barcelona City. The data is collected from the public Airbnb web site without logging in and the code was use is available on https://github.com/tomslee/airbnb-data-collection.
+  - [Pinterest](https://github.com/kang205/STL-Dataset): This dataset contains the scene-product pairs for fashion and home, respectively.
   
 
 ### Stock
