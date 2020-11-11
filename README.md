@@ -30,7 +30,7 @@ Here is a BiBTeX citation:
       publisher = {GitHub},
       journal = {GitHub repository},
       howpublished = {\url{https://github.com/daconjam/Recommender-System-Datasets}}
-}
+      }
 
 
 ## Major repositories with several datasets 
