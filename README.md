@@ -8,7 +8,7 @@ other scientists. The datasets are free, however datasets may ask for citation.
     Name: Jamell Dacon
     Email: daconjam at msu dot edu (daconjam@msu.edu)
     
-If you were lead here by our paper **Cross Domain Recommender System: A Survey on Online Platforms** [**PDF**: *Coming soon*] or publish material based on material and/ or information obtained from this repository, then, in your acknowledgements, please note the assistance you received from utilizing this repository. By citing our paper as follows below, feel free to star ![GitHub stars](https://img.shields.io/github/stars/daconjam/Recommender-System-Datasets?style=social) and/ or fork ![Github forks](https://img.shields.io/github/forks/daconjam/Recommender-System-Datasets?style=social)
+If you publish material based on material and/ or information obtained from this repository, then, in your acknowledgements, please note the assistance you received from utilizing this repository. By citing our repository as follows below, feel free to star ![GitHub stars](https://img.shields.io/github/stars/daconjam/Recommender-System-Datasets?style=social) and/ or fork ![Github forks](https://img.shields.io/github/forks/daconjam/Recommender-System-Datasets?style=social)
 the repository so that academics i.e. university researchers, faculty and other scientists may have quicker access to the available datasets. This will aid in directing others in obtaining the same datasets, thus allowing the replication and improvement of experiments.
 
 
@@ -23,7 +23,14 @@ Lab Page: [DSELab@MSU](https://www.dse.cse.msu.edu)
 
 Here is a BiBTeX citation:
     
-    Coming Soon... 
+    @misc{DaconRepo,
+      author = {Jamell Dacon},
+      title = {Recommender System Datasets},
+      year = {2019},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/daconjam/Recommender-System-Datasets}}
+}
 
 
 ## Major repositories with several datasets 
