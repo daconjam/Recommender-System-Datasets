@@ -8,7 +8,7 @@ other scientists. The datasets are free, however datasets may ask for citation.
     Name: Jamell Dacon
     Email: daconjam at msu dot edu (daconjam@msu.edu)
     
-If you publish material based on material and/ or information obtained from this repository, then, in your acknowledgements, please note the assistance you received from utilizing this repository. By citing our repository as follows below, feel free to star ![GitHub stars](https://img.shields.io/github/stars/daconjam/Recommender-System-Datasets?style=social) and/ or fork ![Github forks](https://img.shields.io/github/forks/daconjam/Recommender-System-Datasets?style=social)
+If you publish material based on material and/ or information obtained from this repository, then, in your acknowledgements, please note the assistance you received from utilizing this repository. By citing our paper as follows below, feel free to star ![GitHub stars](https://img.shields.io/github/stars/daconjam/Recommender-System-Datasets?style=social) and/ or fork ![Github forks](https://img.shields.io/github/forks/daconjam/Recommender-System-Datasets?style=social)
 the repository so that academics i.e. university researchers, faculty and other scientists may have quicker access to the available datasets. This will aid in directing others in obtaining the same datasets, thus allowing the replication and improvement of experiments.
 
 
@@ -23,14 +23,7 @@ Lab Page: [DSELab@MSU](https://www.dse.cse.msu.edu)
 
 Here is a BiBTeX citation:
     
-    @misc{DaconRepo,
-      author = {Jamell Dacon},
-      title = {Recommender System Datasets},
-      year = {2020},
-      publisher = {GitHub},
-      journal = {GitHub repository},
-      howpublished = {\url{https://github.com/daconjam/Recommender-System-Datasets}}
-      }
+    @inbook{10.1145/3442442.3452325, author = {Dacon, Jamell and Liu, Haochen}, title = {Does Gender Matter in the News? Detecting and Examining Gender Bias in News Articles}, year = {2021}, isbn = {9781450383134}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3442442.3452325}, abstract = {To attract unsuspecting readers, news article headlines and abstracts are often written with speculative sentences or clauses. Male dominance in the news is very evident, whereas females are seen as “eye candy” or “inferior”, and are underrepresented and under-examined within the same news categories as their male counterparts. In this paper, we present an initial study on gender bias in news abstracts in two large English news datasets used for news recommendation and news classification. We perform three large-scale, yet effective text-analysis fairness measurements on 296,965 news abstracts. In particular, to our knowledge we construct two of the largest benchmark datasets of possessive (gender-specific and gender-neutral) nouns and attribute (career-related and family-related) words datasets1 which we will release to foster both bias and fairness research aid in developing fair NLP models to eliminate the paradox of gender bias. Our studies demonstrate that females are immensely marginalized and suffer from socially-constructed biases in the news. This paper individually devises a methodology whereby news content can be analyzed on a large scale utilizing natural language processing (NLP) techniques from machine learning (ML) to discover both implicit and explicit gender biases. }, booktitle = {Companion Proceedings of the Web Conference 2021}, pages = {385–392}, numpages = {8} }
 
 
 ## Major repositories with several datasets 
